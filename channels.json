@@ -13,6 +13,19 @@
 		            ]
 	},
 	{
+		"id": "1",
+		"text": "央视频道",
+		"children": [
+			{
+				"text": "CCTV2",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001800",
+					"https://tv.cctv.com/live/cctv2/"
+				       ]
+			}
+		            ]
+	},
+	{
 		"id": "2",
 		"text": "卫视频道",
 		"children": [
@@ -26,4 +39,5 @@
 		            ]
 	}
 ]
+
 
