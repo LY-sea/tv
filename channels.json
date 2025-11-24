@@ -1,15 +1,69 @@
 [
-  {
-    "group": "央视",
-    "name": "CCTV",
-    "title": "CCTV-1",
-    "logo": "图标",
-    "number": "1",
-    "uris": [
-      "https://www.yangshipin.cn/tv/home?pid=600002264"
-    ],
-    "headers": {
-      "user-agent": ""
-    }
-  }
+	{
+		"id": "1",
+		"text": "央视频道",
+		"children": [
+			{
+				"text": "CCTV1",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001859",
+					"https://tv.cctv.com/live/cctv1/"
+				]
+			},
+      {
+				"text": "CCTV2",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001800",
+					"https://tv.cctv.com/live/cctv2/"
+				]
+			},
+      {
+				"text": "CCTV3",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001801",
+					"https://tv.cctv.com/live/cctv3/"
+				]
+			},
+      {
+				"text": "CCTV4",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001814",
+					"https://tv.cctv.com/live/cctv4/"
+				]
+			},
+      {
+				"text": "CCTV5",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001818",
+					"https://tv.cctv.com/live/cctv5/"
+				]
+			},
+      {
+				"text": "CCTV5",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600001817",
+					"https://tv.cctv.com/live/cctv5plus/"
+				]
+			},
+      {
+				"text": "CCTV6",
+				"url": [
+					"https://www.yangshipin.cn/tv/home?pid=600108442",
+					"https://tv.cctv.com/live/cctv6/"
+				]
+			}
+		]
+	},
+	{
+		"id": "2",
+		"text": "卫视频道",
+		"children": [
+			{
+				"text": "湖北卫视",
+				"url": [
+          "https://www.yangshipin.cn/tv/home?pid=600002508",
+        	"https://news.hbtv.com.cn/app/tv/431"
+			}
+		]
+	}
 ]
