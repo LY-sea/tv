@@ -1,4 +1,6 @@
 央视频道,#genre#
+CCTV-8K,https://www.yangshipin.cn/tv/home?pid=600156816
+CCTV-4K,https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
@@ -17,9 +19,9 @@ CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-第一剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_DIYIJC-CQ
-风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
-怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
+第一剧场,https://www.yangshipin.cn/tv/home?pid=600099655
+风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658
+怀旧剧场,https://www.yangshipin.cn/tv/home?pid=600099620
 
 卫视频道,#genre#
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
@@ -55,5 +57,19 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 
 一起看,#genre#
-武林萌主唐小姐,https://www.goodiptv.club/huya/11336726
-周星星,https://www.goodiptv.club/huya/11342412
+成龙,https://www.goodiptv.club/huya/11342386
+沈腾,https://www.goodiptv.club/huya/11601968
+周星驰,https://www.goodiptv.club/huya/11342412
+王宝强,https://www.goodiptv.club/huya/30080251
+李连杰,https://www.goodiptv.club/huya/11342390
+甄子丹,https://www.goodiptv.club/huya/11352935
+洪金宝,https://www.goodiptv.club/huya/11279251
+刘德华,https://www.goodiptv.club/huya/11342424
+周润发,https://www.goodiptv.club/huya/11342387
+林正英,https://www.goodiptv.club/huya/11342421
+喜剧电影,https://www.goodiptv.club/huya/11602044
+动作电影,https://www.goodiptv.club/huya/10871113
+军旅电影,https://www.goodiptv.club/huya/23728693
+超英电影,https://www.goodiptv.club/huya/11352950
+怪兽电影,https://www.goodiptv.club/huya/29982674
+韩国电影,https://www.goodiptv.club/huya/30080226
