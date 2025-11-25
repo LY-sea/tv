@@ -78,6 +78,7 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 西藏卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600190403
 
 一起看（明星）,#genre#
+成龙,https://www.goodiptv.club/huya/11342386
 周星驰,https://www.goodiptv.club/huya/11342412
 李连杰,https://www.goodiptv.club/huya/11342390
 甄子丹,https://www.goodiptv.club/huya/11352935
@@ -88,9 +89,9 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 
 一起看（系列）,#genre#
 喜剧电影,https://www.goodiptv.club/huya/11352897
-动作电影,https://www.goodiptv.club/huya/10871113
+动作电影,https://www.goodiptv.club/huya/11602041
 军旅电影,https://www.goodiptv.club/huya/23728693
 超英电影,https://www.goodiptv.club/huya/11352950
 怪兽电影,https://www.goodiptv.club/huya/29982674
-港片经典,https://www.goodiptv.club/huya/30329635
+经典港片,https://www.goodiptv.club/huya/11602055
 韩国电影,https://www.goodiptv.club/huya/30080226
