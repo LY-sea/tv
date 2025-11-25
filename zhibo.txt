@@ -45,8 +45,6 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 
 卫视频道,#genre#
 湖北卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002508
-湖北卫视,hybrid-webview://https://news.hbtv.com.cn/app/tv/431
-湖北经视,hybrid-webview://https://news.hbtv.com.cn/app/tv/432
 湖南卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002475
 浙江卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002520
 东方卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600002483
@@ -96,7 +94,3 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 怪兽电影,https://www.goodiptv.club/huya/29982674
 经典港片,https://www.goodiptv.club/huya/11602055
 韩国电影,https://www.goodiptv.club/huya/30080226
-
-
-
-
