@@ -1,8 +1,9 @@
 央视频道,#genre#
 CCTV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001859
-CCTV-1,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=aca6e990-36a1-4948-b9e4-1f1f38d28e8f
+CCTV-1,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-1,hybrid-webview://https://tv.cctv.com/live/cctv1/
 CCTV-2,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001800
+CCTV-2,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV-2,hybrid-webview://https://tv.cctv.com/live/cctv2/
 CCTV-3,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001801
 CCTV-3,hybrid-webview://https://tv.cctv.com/live/cctv3/
@@ -94,4 +95,5 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 怪兽电影,https://www.goodiptv.club/huya/29982674
 经典港片,https://www.goodiptv.club/huya/11602055
 韩国电影,https://www.goodiptv.club/huya/30080226
+
 
