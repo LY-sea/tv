@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV-1,http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV-1,hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-1,hybrid-webview://https://tv.cctv.com/live/cctv1/
 CCTV-1,hybrid-webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
@@ -128,3 +128,4 @@ CETV-1,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600171827
 新疆卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600152138
 
 西藏卫视,hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600190403
+
