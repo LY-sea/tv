@@ -16,7 +16,7 @@
 					"https://www.yangshipin.cn/tv/home?pid=600001800",
 					"https://tv.cctv.com/live/cctv2/"
 				       ]
-			}
+			},
 			{
 				"text": "CCTV3",
 				"url": [
@@ -40,5 +40,6 @@
 		            ]
 	},
 ]
+
 
 
