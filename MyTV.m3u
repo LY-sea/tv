@@ -5,6 +5,8 @@ hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001859
 hybrid-webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://11.112114.xyz/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 hybrid-webview://https://tv.cctv.com/live/cctv1/
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://11.112114.xyz/logo/CCTV-1.png" group-title="央视频道",CCTV-1
+https://gitee.com/mytv-android/mytvJS/raw/main/js/migu.js?id=608807420
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://11.112114.xyz/logo/CCTV-2.png" group-title="央视频道",CCTV-2
 hybrid-webview://https://tv.cctv.com/live/cctv2/
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://11.112114.xyz/logo/CCTV-2.png" group-title="央视频道",CCTV-2
