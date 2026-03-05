@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://gitee.com/mytv-android/mymigu/raw/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://11.112114.xyz/logo/CCTV-1.png" group-title="央视频道",CCTV-1
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://11.112114.xyz/logo/CCTV-1.png" group-title="央视频道",CCTV1综合
 hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001859
 
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://11.112114.xyz/logo/CCTV-2.png" group-title="央视频道",CCTV-2
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://11.112114.xyz/logo/CCTV-2.png" group-title="央视频道",CCTV2财经
 hybrid-webview://https://www.yangshipin.cn/tv/home?pid=600001800
 
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://11.112114.xyz/logo/CCTV-3.png" group-title="央视频道",CCTV-3
